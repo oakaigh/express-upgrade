@@ -1,0 +1,28 @@
+{
+    "name": "express-upgrade",
+    "version": "0.0.0",
+    "description": "Handle HTTP upgrade requests through Express apps",
+    "keywords": [
+        "express",
+        "upgrade"
+    ],
+    "author": {
+        "name": "Jared C"
+    },
+    "license": "MIT",
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/MIT"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/oakaigh/express-upgrade.git",
+        "github": "https://github.com/oakaigh/express-upgrade"
+    },
+    "files": [
+        "index.js"
+    ],
+    "main": "index.js"
+}
